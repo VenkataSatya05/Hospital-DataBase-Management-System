@@ -21,6 +21,7 @@ SQLite Database: Lightweight and file-based database storage.
 1.Clone the repository
 
 git clone https://github.com/VenkataSatya05/Hospital-DataBase-Management-System.git
+
 cd Hospital-DataBase-Management-System
 
 2. Run the system
