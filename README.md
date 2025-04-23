@@ -1,8 +1,8 @@
-🏥 Hospital Database Management System
+# 🏥 Hospital Database Management System
 
 A Python-based system for managing hospital records, appointments, billing, and staff information.
 
-📌 Features
+## 📌 Features
 
 Patient Management: Add, update, and view patient records.
 
@@ -16,7 +16,7 @@ Medical Records: Store and retrieve patient medical history.
 
 SQLite Database: Lightweight and file-based database storage.
 
-🛠 Setup & Installation
+## 🛠 Setup & Installation
 
 1.Clone the repository
 
@@ -28,7 +28,7 @@ cd Hospital-DataBase-Management-System
 
    python main.py
 
-📂 Project Structure
+## 📂 Project Structure
 
 Hospital-DataBase-Management-System/  
 ├── database.py          # Database connection & setup  
@@ -40,7 +40,7 @@ Hospital-DataBase-Management-System/
 ├── medicalrecords.py    # Medical history records  
 └── hospital_db.sqlite   # SQLite database file  
 
-💡 How to Use
+##💡 How to Use
 
 1.Run main.py to start the system.
 
@@ -54,7 +54,7 @@ Generate bills
 
 View medical records
 
-🔄 Future Improvements
+## 🔄 Future Improvements
 
 dd a GUI (Tkinter/PyQt).
 
@@ -62,7 +62,7 @@ Implement user authentication (login system).
 
 Expand reporting & analytics.
 
-📜 License
+## 📜 License
 
 This project is open-source under the MIT License.
 
