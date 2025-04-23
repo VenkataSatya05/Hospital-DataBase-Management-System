@@ -39,7 +39,7 @@ Hospital-DataBase-Management-System/
 ├── medicalrecords.py    # Medical history records  
 └── hospital_db.sqlite   # SQLite database file  
 
-##💡 How to Use
+## 💡 How to Use
 
 1.Run main.py to start the system.
 
